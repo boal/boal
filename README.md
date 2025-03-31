@@ -19,14 +19,3 @@ My radio equipment is inspired by the great community of [draussenfunker.de](htt
 - self-built [1/4 lambda vertical](https://draussenfunker.de/diy/teleskop-viertelwellen-vertical.html)
 - self-built [HWEF](https://draussenfunker.de/diy/efhw.html)
 
-#### HF Propagation
-
-<p>
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php"></a>
-</center>
-
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php"></a>
-</center>
-</p>
