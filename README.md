@@ -8,14 +8,4 @@
 
 #### Amateur radio
 
-In my free time I am a passionate amateur radio operator. You will meet me on the air as `DB7GKA` mostly on the HF bands.
-
-My radio equipment is inspired by the great community of [draussenfunker.de](https://draussenfunker.de) (outdoor radio operators) and consists of the following listed items which all fit in my backpack:
-
-- UHF/VHF handheld Yaesu FT-4X
-- HF transceiver Yaesu FT-891
-- battery pack 12V/12Ah
-- antenna analyser RigExpert Stick 230
-- self-built [1/4 lambda vertical](https://draussenfunker.de/diy/teleskop-viertelwellen-vertical.html)
-- self-built [HWEF](https://draussenfunker.de/diy/efhw.html)
-
+In my free time I am a passionate amateur radio operator. You will meet me on the air as [DB7GKA](https://www.qrz.com/db/DB7GKA) mostly on the HF bands.
